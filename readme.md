@@ -10,11 +10,11 @@ Trajectory data from radar data：
 
    A scatter plot of the trajectories of the data is shown below
 
-![raw data](https://github.com/tuqing123/radarpairs-calibration-data-share/blob/main/figure/initial%20data.jpg)
+![raw data](./figure/rawdata.png)
 
 ​	The initial values of the trajectory data in road conditions are as follows
 
-![initial data](F:/BigApp/picture%20bak/literature%20picture/initial%20data-1714562394479-3.jpg)
+![initial data](./figure/initial_condition.png)
 
 
 
