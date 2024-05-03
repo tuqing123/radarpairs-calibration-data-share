@@ -10,7 +10,7 @@ Trajectory data from radar data：
 
    A scatter plot of the trajectories of the data is shown below
 
-![raw data](./figure/rawdata.png)
+![raw data](./figure/raw_data.png)
 
 ​	The initial values of the trajectory data in road conditions are as follows
 
